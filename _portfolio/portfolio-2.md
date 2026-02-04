@@ -4,6 +4,12 @@ excerpt: "Full-stack journaling application with analytics and structured data s
 collection: portfolio
 ---
 
+<a href="https://github.com/anushka204/haven" target="_blank">
+  <img src="/images/projects/haven.png" alt="Haven Screenshot">
+</a>
+
+---
+
 ## Project Description
 
 Haven is a full-stack journaling web application designed to help users organize personal journal entries while providing insights into mood patterns. The platform allows users to create collections, search entries efficiently, and track emotional trends through basic analytics.
