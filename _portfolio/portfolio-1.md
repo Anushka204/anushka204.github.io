@@ -1,7 +1,30 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NotesVerb – Microservices Note-Taking API"
+excerpt: "Scalable backend architecture using microservices and container orchestration"
 collection: portfolio
+header:
+  teaser: /images/notesverb.png
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Overview
+NotesVerb is a distributed backend system designed using microservices architecture.
+
+## Features
+- Authentication service
+- Notes management service
+- Notification service
+- API Gateway routing
+- Redis caching for performance
+
+## Tech Stack
+Node.js  
+PostgreSQL  
+JWT Authentication  
+Redis  
+Docker  
+Kubernetes  
+
+## Key Learning
+- Microservices architecture
+- Containerized deployments
+- Backend scalability
