@@ -14,65 +14,16 @@ I enjoy transforming complex ideas into real-world software solutions that are e
 
 ---
 
-## 🚀 What I Do
+## 🚀 Snapshot
 
-I specialize in building full-stack applications with strong backend architecture and modern cloud deployment practices.
-
-My core interests include:
-
-- Distributed Systems & Microservices
-- Backend Engineering
-- Cloud Infrastructure & DevOps
-- Data Analytics & Visualization
-- Production-Ready Application Development
-
----
-
-## 💻 Technical Skills
-
-### ⚙️ Backend & APIs
-Node.js • Express.js • REST API Development • Microservices Architecture 
-
-### 🎨 Frontend & Mobile Development
-React • Next.js • Tailwind CSS • React Native
-
-### 🗄 Databases
-PostgreSQL • MongoDB • Relational Data Modeling • Query Optimization
-
-### ☁️ Cloud & DevOps
-Docker • Kubernetes • AWS • CI/CD Pipelines
-
-### 📊 Data & Analytics
-Power BI • Pandas • NumPy • Data Visualization
-
----
-
-## 🌟 Featured Work
-
-I have built multiple real-world projects focusing on scalability, performance, and usability.
-
-✔ Microservices-based Note-Taking API deployed using Docker & Kubernetes  
-✔ Full-stack Journaling & Mood Analytics Application  
-✔ Cross-platform Habit Tracking Mobile Application  
-✔ Customer Analytics Dashboard using Power BI  
-
----
-
-## 🧠 My Development Approach
-
-I focus on writing clean, maintainable, and scalable code while following industry-standard software engineering practices. I enjoy working with system design concepts, architecture decisions, and performance optimization strategies.
-
----
-
-## 🎯 Career Goals
-
-I aim to work in product-based technology companies where I can contribute to building scalable distributed systems and impactful software products.
+- 🎓 Final Year Computer Science Student  
+- 🛠 Built Multiple Full-Stack & Cloud Projects  
+- ☁️ Experience With Docker & Kubernetes Deployments  
+- 📊 Strong Interest in Data Analytics & Visualization  
 
 ---
 
 ## 🌱 Beyond Coding
-
-Outside of development, I enjoy:
 
 🎨 Painting and creative work  
 📚 Exploring system design concepts  
@@ -82,8 +33,8 @@ Outside of development, I enjoy:
 
 ## 📬 Contact
 
-📧 Email: anushka.sh2004@gmail.com  
-
+📧 anushka.sh2004@gmail.com  
+💻 https://github.com/anushka204
 
 
 
