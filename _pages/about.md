@@ -1,16 +1,11 @@
----
-layout: single
-author_profile: true
-permalink: /
----
-
 # 👋 Hello, I'm Anushka Sharma
 
-### 💻 Full Stack Developer | ☁️ Cloud Enthusiast | 📊 Data Explorer
+💻 Full Stack Developer | ☁️ Cloud Enthusiast | 📊 Data Explorer
 
 I am a **final-year Computer Science student (2026)** passionate about building scalable backend systems, distributed architectures, and modern web applications.
 
 I love transforming complex ideas into real-world solutions using technology.
+
 
 ---
 
