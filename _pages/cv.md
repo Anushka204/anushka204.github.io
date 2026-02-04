@@ -1,64 +1,73 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+layout: single
+title: "Resume"
+permalink: /resume/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## 📄 Resume
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+You can view or download my resume below.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+👉 [Download Resume](/files/Anushka_Sharma_Resume.pdf)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 👩‍💻 Quick Profile Summary
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Final-year Computer Science student with strong experience in backend development, cloud-native applications, and data analytics. Skilled in designing scalable systems using microservices architecture and containerized deployments.
+
+---
+
+## 🔧 Technical Skills
+
+### Backend & APIs
+- Node.js
+- Express.js
+- REST API Development
+- JWT Authentication
+- Microservices Architecture
+
+### Frontend & Mobile
+- React
+- Next.js
+- Tailwind CSS
+- React Native
+
+### Databases
+- PostgreSQL
+- MongoDB
+- Redis
+
+### Cloud & DevOps
+- Docker
+- Kubernetes
+- AWS
+
+### Data & Analytics
+- Power BI
+- Pandas
+- NumPy
+- Data Visualization
+
+---
+
+## 🚀 Highlight Projects
+
+✔ NotesVerb – Microservices backend system  
+✔ Haven – Full-stack journaling & analytics platform  
+✔ Habit Tracking Mobile App  
+✔ Credit Card Customer Analytics Dashboard  
+
+---
+
+## 📬 Contact
+
+📧 Email: anushka.sh2004@gmail.com  
+💻 GitHub: https://github.com/anushka204  
+
+---
+
+## 📑 Resume Preview
+
+<iframe src="/files/Anushka_Sharma_Resume.pdf" width="100%" height="800px"></iframe>
