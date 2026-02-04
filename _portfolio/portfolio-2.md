@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <a href="https://github.com/anushka204/haven" target="_blank">
-  <img src="/images/projects/haven.png" alt="Haven Screenshot">
+  <img src="/images/projects/haven1.png" alt="Haven Screenshot">
 </a>
 
 ---
