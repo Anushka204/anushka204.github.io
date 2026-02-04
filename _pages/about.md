@@ -4,7 +4,6 @@ author_profile: true
 permalink: /
 ---
 
-# 👋 Hi, I'm Anushka Sharma
 
 I am a **final-year B.Tech Computer Science student (Class of 2026)** passionate about building scalable software systems, cloud-native applications, and data-driven solutions.
 
@@ -79,7 +78,6 @@ Outside of development, I enjoy creative work, painting, and exploring new techn
 ## 📬 Let's Connect
 
 📧 Email: anushka.sh2004@gmail.com  
-💻 GitHub: https://github.com/anushka204  
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+
 
 
