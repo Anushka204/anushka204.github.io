@@ -1,19 +1,25 @@
 ---
 title: "Haven – Journal & Mood Analytics Application"
-excerpt: "Full-stack journaling platform with mood analytics"
+excerpt: "Full-stack journaling application with analytics and structured data storage"
 collection: portfolio
-header:
-  teaser: /images/haven.png
 ---
 
-## Features
-- Journal collections
-- Mood tracking analytics
-- Search functionality
-- Responsive UI
+## Project Description
 
-## Tech Stack
-Next.js  
-React  
-Tailwind CSS  
-PostgreSQL
+Haven is a full-stack journaling web application designed to help users organize personal journal entries while providing insights into mood patterns. The platform allows users to create collections, search entries efficiently, and track emotional trends through basic analytics.
+
+The application focuses on user-friendly interface design, structured database modeling, and responsive layouts to provide a seamless user experience across devices.
+
+## Key Features
+- Journal entry collections and categorization
+- Mood tracking and analytics visualization
+- Advanced search functionality
+- Fully responsive UI design
+
+## Technologies Used
+Next.js, React, Tailwind CSS, PostgreSQL
+
+## Impact & Learning
+- Strengthened full-stack development skills
+- Learned relational data modeling
+- Improved UI/UX design practices
