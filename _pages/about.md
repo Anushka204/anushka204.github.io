@@ -1,40 +1,85 @@
 ---
-permalink: /
-title: "About Me"
+layout: single
 author_profile: true
+permalink: /
 ---
 
-Hi! I am **Anushka Sharma**, a final-year B.Tech Computer Science student graduating in 2026.
+# 👋 Hi, I'm Anushka Sharma
 
-I am passionate about building scalable backend systems, cloud-native applications, and data-driven solutions.
+I am a **final-year B.Tech Computer Science student (Class of 2026)** passionate about building scalable software systems, cloud-native applications, and data-driven solutions.
 
-I have strong hands-on experience across the full Software Development Life Cycle through academic and self-driven projects.
+I enjoy solving real-world problems by designing systems that are not just functional, but also scalable, efficient, and user-friendly.
 
 ---
 
-## 💻 Core Expertise
+## 🚀 What I Do
 
-### Backend & APIs
-Node.js, Express.js, REST API Design, JWT Authentication, Microservices Architecture
+I specialize in building full-stack applications with strong backend architecture and modern cloud deployment practices.
 
-### Frontend & Mobile
-React, Next.js, Tailwind CSS, React Native, Expo
+My interests lie in:
+
+- Distributed Systems & Microservices
+- Backend Engineering
+- Cloud Infrastructure & DevOps
+- Data Analytics & Visualization
+- Building Production-Ready Applications
+
+---
+
+## 💻 Technical Expertise
+
+### Backend & System Design
+Node.js • Express.js • REST API Design • Microservices Architecture • Redis Caching
+
+### Frontend & Mobile Development
+React • Next.js • Tailwind CSS • React Native 
 
 ### Databases
-PostgreSQL, MongoDB, Redis
+PostgreSQL • MongoDB 
 
 ### Cloud & DevOps
-Docker, Kubernetes, AWS
+Docker • Kubernetes • AWS • CI/CD Pipelines
 
 ### Data & Analytics
-Power BI, Pandas, NumPy, Data Visualization
+Power BI • Pandas • NumPy • Data Visualization
 
 ---
 
-## 🎯 Career Interests
+## 🌟 Featured Work
 
-- Backend Engineering
-- Cloud Infrastructure
-- Distributed Systems
-- Data Analytics Platforms
+I have built multiple real-world projects focusing on scalability, performance, and usability.
+
+Some highlights include:
+
+✔ Microservices-based Note Taking API deployed using Docker & Kubernetes  
+✔ Full-stack Journaling & Mood Analytics Application  
+✔ Cross-platform Habit Tracking Mobile Application  
+✔ Customer Analytics Dashboard using Power BI  
+
+---
+
+## 🧠 My Approach To Development
+
+I focus on writing clean, maintainable, and scalable code while following best software engineering practices. I strongly believe in understanding system design, architecture decisions, and performance optimization.
+
+---
+
+## 🎯 Career Goals
+
+I aim to work in product-based technology companies where I can contribute to building large-scale distributed systems and impactful software products.
+
+---
+
+## 🌱 Beyond Coding
+
+Outside of development, I enjoy creative work, painting, and exploring new technologies and system design concepts.
+
+---
+
+## 📬 Let's Connect
+
+📧 Email: anushka.sh2004@gmail.com  
+💻 GitHub: https://github.com/anushka204  
+💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+
 
