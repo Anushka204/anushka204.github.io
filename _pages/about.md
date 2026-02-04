@@ -8,110 +8,71 @@ permalink: /
 
 💻 Full Stack Developer | ☁️ Cloud Enthusiast | 📊 Data Explorer
 
-I am a **final-year Computer Science student (2026)** passionate about building scalable backend systems, distributed architectures, and modern web applications.
+I am a **final-year B.Tech Computer Science student (Class of 2026)** passionate about building scalable backend systems, distributed architectures, and modern web applications.
 
-I love transforming complex ideas into real-world solutions using technology.
-
-
----
-
-## 🚀 Snapshot
-
-- 🎓 Final Year B.Tech CSE Student
-- 🛠 Built Multiple Full-Stack & Cloud Projects
-- ☁️ Experience With Docker & Kubernetes Deployments
-- 📊 Strong Interest in Data Analytics & Visualization
-- 🌐 Passionate About Scalable System Design
+I enjoy transforming complex ideas into real-world software solutions that are efficient, reliable, and user-friendly.
 
 ---
 
-## 💡 What Drives Me
+## 🚀 What I Do
 
-I enjoy designing software systems that are:
+I specialize in building full-stack applications with strong backend architecture and modern cloud deployment practices.
 
-✔ Scalable  
-✔ Maintainable  
-✔ Performance Optimized  
-✔ User Friendly  
+My core interests include:
 
-I believe great software comes from combining **clean architecture + thoughtful design + real-world usability**.
+- Distributed Systems & Microservices
+- Backend Engineering
+- Cloud Infrastructure & DevOps
+- Data Analytics & Visualization
+- Production-Ready Application Development
 
 ---
 
-## 🧠 Technical Skills
+## 💻 Technical Skills
 
 ### ⚙️ Backend & APIs
-Node.js • Express.js • REST APIs • Microservices 
+Node.js • Express.js • REST API Development • Microservices Architecture 
 
----
-
-### 🎨 Frontend & Mobile
-React • Next.js • Tailwind CSS • React Native • Expo
-
----
+### 🎨 Frontend & Mobile Development
+React • Next.js • Tailwind CSS • React Native
 
 ### 🗄 Databases
 PostgreSQL • MongoDB • Relational Data Modeling • Query Optimization
 
----
-
 ### ☁️ Cloud & DevOps
 Docker • Kubernetes • AWS • CI/CD Pipelines
-
----
 
 ### 📊 Data & Analytics
 Power BI • Pandas • NumPy • Data Visualization
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Work
 
-### 🧩 NotesVerb — Microservices Note API
-Designed a scalable distributed backend using containerized services and Kubernetes orchestration.
+I have built multiple real-world projects focusing on scalability, performance, and usability.
 
----
-
-### 📓 Haven — Journal & Mood Analytics App
-Built a full-stack journaling platform with analytics and structured data storage.
-
----
-
-### 📱 Habit Tracking Mobile App
-Developed a cross-platform mobile application for tracking daily habits.
+✔ Microservices-based Note-Taking API deployed using Docker & Kubernetes  
+✔ Full-stack Journaling & Mood Analytics Application  
+✔ Cross-platform Habit Tracking Mobile Application  
+✔ Customer Analytics Dashboard using Power BI  
 
 ---
 
-### 📊 Credit Card Customer Analytics Dashboard
-Created an interactive business intelligence dashboard using Power BI.
+## 🧠 My Development Approach
+
+I focus on writing clean, maintainable, and scalable code while following industry-standard software engineering practices. I enjoy working with system design concepts, architecture decisions, and performance optimization strategies.
 
 ---
 
-## 🛤 My Development Journey
+## 🎯 Career Goals
 
-### 2022 — Started Computer Science
-- Built foundation in programming and software engineering
-
-### 2023 — Full Stack Development
-- Built multiple React and backend applications
-
-### 2024 — Cloud & DevOps Exploration
-- Learned Docker, Kubernetes, deployment strategies
-
-### 2025 — Scalable Systems & Data Analytics
-- Built microservices architecture and analytics dashboards
+I aim to work in product-based technology companies where I can contribute to building scalable distributed systems and impactful software products.
 
 ---
 
-## 🎯 Career Vision
+## 🌱 Beyond Coding
 
-I aim to work in **product-based technology companies** where I can contribute to designing scalable distributed systems and impactful software solutions.
-
----
-
-## 🌱 Beyond Technology
-
-Outside coding, I enjoy:
+Outside of development, I enjoy:
 
 🎨 Painting and creative work  
 📚 Exploring system design concepts  
@@ -119,9 +80,10 @@ Outside coding, I enjoy:
 
 ---
 
-## 📬 Let's Connect
+## 📬 Contact
 
 📧 Email: anushka.sh2004@gmail.com  
+
 
 
 
