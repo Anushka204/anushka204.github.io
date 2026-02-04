@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: true
+permalink: /
+---
+
 # 👋 Hello, I'm Anushka Sharma
 
 💻 Full Stack Developer | ☁️ Cloud Enthusiast | 📊 Data Explorer
