@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 ---
 
-# 👋 Hello, I'm Anushka Sharma
+### About Me
 
 💻 Full Stack Developer | ☁️ Cloud Enthusiast | 📊 Data Explorer
 
